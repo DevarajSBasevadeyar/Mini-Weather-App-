@@ -4,4 +4,4 @@ Features:
 • Search city  
 • Show temperature  
 • Show weather description  
-• Use OpenWeather API  •
+• Use OpenWeather API 
